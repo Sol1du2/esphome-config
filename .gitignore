@@ -1,0 +1,5 @@
+# Gitignore settings for ESPHome
+/.esphome/
+/.venv/
+/secrets.yaml
+/local_components
